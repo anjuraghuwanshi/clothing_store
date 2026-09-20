@@ -1,0 +1,26 @@
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# Backend
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.env
+backend/.venv/
+backend/venv/
+
+# Python
+*.pyc
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
